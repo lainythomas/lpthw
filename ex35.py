@@ -13,7 +13,7 @@ def gold_room():
         print("Nice, you're not greedy, you win!")
         exit(0)
     else:
-        dead("You greedy bastard!")
+        dead("Too greedy!")
 
 
 def bear_room():
